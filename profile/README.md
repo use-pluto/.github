@@ -4,7 +4,7 @@ Whether you're programming, messing around, or gaming on a computer, you will al
 System41 tries to make the internet more fun for you to visit. What if what you're doing isn't entertaining enough? **This is where system41 kicks in.**  
 System41 is a hobby project dedicated to making the internet awesome. By making open-source tools, revolutionary products, and much more, we are making you a happier, more educated person. So what are we waiting for? Let's get started!  
   
-***Because of technical restrictions, repository code and such will be stored on [its-pablo](/../../../../its-pablo)'s profile. [Learn more](//github.com/system41/.github/profile/itspablo.md)***
+***Because of technical restrictions, repository code and such will be stored on [its-pablo](/../../../../its-pablo)'s profile. [Learn more](//github.com/system41/.github/blob/main/profile/itspablo.md)***
   
 ### Our projects
 * Windows99 | [Github](/../../../../its-pablo/windows99) or [Live site](//windows99.vercel.app) - Open sourced Web OS, with the intention of simulating Windows 98 in the browser.
