@@ -12,6 +12,7 @@ System41 is a hobby project dedicated to making the internet awesome. By making 
 | [open99](https://github.com/system41/open99)                                    | Frontend code for open99. Main repository          |
 | [open99-plugin](https://github.com/system41/open99-plugin)                      | Plugin (JS) for open99 apps                        |
 | [99captcha](https://github.com/system41/99captcha)                              | Funny reCAPTCHA alternative for open99             |
+| [open99-apps](https://github.com/system41/open99-apps)                          | Base repo for applications' source code            |
 
 ### Links
 * open99 (coming soon)
@@ -23,6 +24,8 @@ System41 is a hobby project dedicated to making the internet awesome. By making 
 * 99captcha
   * [Github](https://github.com/system41/99captcha)
   * [Live](https://system41.github.io/99captcha)
+* open99-apps
+  * [Github](https://github.com/system41/open99-apps)
 #### open99
 * [Github](https://github.com/system41/open99)  
 * [Live](https://open99.js.org) (coming soon)  
@@ -35,4 +38,7 @@ This plugin (script) should be used for all open99 applications planning on bein
 * [Github](https://github.com/system41/99captcha)
 * [Live](https://system41.github.io/99captcha)
 This funny captcha parody is soon to be the main captcha used in forms (signup, bugs). Once open99 reaches a large amount of visitors, Google Recaptcha will be used and the `99captcha` repository will be archived.
+#### open99-apps
+* [Github](https://github.com/system41/99captcha)
+open99-apps is where the source code is stored for all applications in open99.
 ---
