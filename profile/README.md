@@ -1,5 +1,7 @@
-<img width="15%" src="https://system41.github.io/.github/profile/icons/system41.png">
-
+<p align="center">
+  <img width="15%" src="https://system41.github.io/.github/profile/icons/system41.png">
+</p>
+  
 ## System41: The future of the internet
 
 Whether you're programming, messing around, or gaming on a computer, you will always need an especially important tool - *the internet*.  
