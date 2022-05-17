@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="15%" src="https://system41.github.io/.github/profile/icons/system41.png">
+  <img width="15%" src="https://system41.github.io/.github/profile/icons/sys41.png">
 </p>
   
 ## System41: The future of the internet
