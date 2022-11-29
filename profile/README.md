@@ -2,12 +2,9 @@
   <img width="15%" src="https://system41.github.io/.github/profile/icons/sys41.png">
 </p>
   
-# System41: The future of the internet
+# System41
+the team behind open99, the most complete web OS out there.
 
-Whether you're programming, messing around, or gaming on a device, you will always need an especially important tool - *the internet*.  
-But, however, we all know how What if what you're doing isn't entertaining enough? **This is where system41 kicks in.** System41 tries to make the internet more fun for you to visit.   
-System41 is a hobby project dedicated to making the internet awesome. By making open-source libraries, epic web OS's, and much more we are empowering you to use the tools you need. So what are we waiting for? Let's get started!  
-  
 ## Projects
 | Project                                                    | Short description                                      |
 |------------------------------------------------------------|--------------------------------------------------------|
